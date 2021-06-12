@@ -20,11 +20,11 @@
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
-      "value": "999197022 939425014"
+      "value": "-1001477751318"
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
-      "value": "https://viperadnan-git.github.io"
+      "value": "https://telegram.me/E_Karo"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
